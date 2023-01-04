@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nam Anhhh</h1>
 <h3 align="center">A passionate frontend developer...hmm maybe... (●'◡'●)</h3>
 
-<img alt="" align="right" width=400 src="https://miro.medium.com/max/1290/0*s2ivt9cecdqsXvts.gif"/>
+<img alt="" align="right" width=400 src="https://i.gifer.com/origin/0d/0d0183d44abb37407142b860a8c6b4ce.gif"/>
 
 - 🔭 I worked on [Shopee Clone](https://github.com/namanh2310/WEB-Project-Shopee-Phake-FullStack) and [Movie App](https://github.com/namanh2310/Movie-App). Besides, there is an unrelated project [Traffic Light](https://github.com/namanh2310/Traffic-Light)
 
