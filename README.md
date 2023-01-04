@@ -3,11 +3,13 @@
 
 - 🔭 I worked on [Shopee Clone](https://github.com/namanh2310/WEB-Project-Shopee-Phake-FullStack)
 
+
+
+and [Movie App](https://github.com/namanh2310/Movie-App)
+
+and a unrelated project [Traffic Light](https://github.com/namanh2310/Traffic-Light)
+
 - 🌱 I’m currently learning **backenddddd (┬┬﹏┬┬)**
-
-- and [Movie App](https://github.com/namanh2310/Movie-App)
-
-- and a unrelated project [Traffic Light](https://github.com/namanh2310/Traffic-Light)
 
 - 👨‍💻 All of my projects are available at [https://github.com/namanh2310](https://github.com/namanh2310)
 
