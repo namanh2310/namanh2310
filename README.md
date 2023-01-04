@@ -11,9 +11,9 @@
 
 - 💬 Techs I'm using **html5, css3, javascript, react**
 
-- 📫 How to reach me **dangnguyennamanh206@gmail.com**
+- 📫 Reach me via **dangnguyennamanh206@gmail.com**
 
-- ⚡ Fun fact **I am lazy**
+- ⚡ Fun fact that **I am extremely lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
