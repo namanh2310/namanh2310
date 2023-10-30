@@ -5,11 +5,9 @@
 
 - 🔭 I worked on [Shopee Clone](https://github.com/namanh2310/WEB-Project-Shopee-Phake-FullStack) and [Movie App](https://github.com/namanh2310/Movie-App). Besides, there is an unrelated project [Traffic Light](https://github.com/namanh2310/Traffic-Light)
 
-- 🌱 I’m currently learning **backenddddd (┬┬﹏┬┬)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/namanh2310](https://github.com/namanh2310)
 
-- 💬 Techs I'm using **html5, css3, javascript, react**
+- 💬 Techs I'm using **html5, css3, javascript, python, C**
 
 - 📫 Reach me via **dangnguyennamanh206@gmail.com**
 
