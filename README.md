@@ -3,11 +3,11 @@
 
 <img alt="" align="right" width=400 src="https://i.gifer.com/origin/0d/0d0183d44abb37407142b860a8c6b4ce.gif"/>
 
-- 🔭 I worked on [Shopee Clone](https://github.com/namanh2310/WEB-Project-Shopee-Phake-FullStack) and [Movie App](https://github.com/namanh2310/Movie-App). Besides, there is an unrelated project [Traffic Light](https://github.com/namanh2310/Traffic-Light)
+- 🔭 I want to work as both web and mobile developer!
 
 - 👨‍💻 All of my projects are available at [https://github.com/namanh2310](https://github.com/namanh2310)
 
-- 💬 Techs I'm using **html5, css3, javascript, python, C**
+- 💬 Techs I'm using **react, react native, nextjs, nodejs, flask**
 
 - 📫 Reach me via **dangnguyennamanh206@gmail.com**
 
