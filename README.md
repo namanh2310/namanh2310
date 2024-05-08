@@ -28,7 +28,7 @@
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="flask" width="40" height="40"/>
+        <img src="https://5.imimg.com/data5/HT/HX/YO/GLADMIN-13634783/selection-208-500x500.png" alt="flask" width="40" height="40"/>
         <!-- Thêm hình ảnh Flask Server tại đây -->
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
